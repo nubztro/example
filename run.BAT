@@ -1,2 +1,0 @@
-node RainbowRole.js
-pause
